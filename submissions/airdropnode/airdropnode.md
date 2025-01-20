@@ -4,7 +4,7 @@
 - **GitHub Account:** gifty7
 - **Email:** amritnikku12005@gmail.com
 - **Arweave Address:** Z18cOMbnhXGdEtNnHnL9-keae_V9DUDSjVwmdiG2c48 
-- **ETH Address:** 0x938e50bF3826AFEE55a6719D5F160E646df8B7Da
+- **ETH Address:** 0xb5E03bE59F5Bcd0ca1d51Dd9244D0C555A805Fb5
 - **Talent Pool Form:** [Complete this form](https://docs.google.com/forms/d/e/1FAIpQLSfWA5fIIcBgmRppm3jNz5vmf9Mai_QMVil-2pO4r7YKn_Zhtw/viewform?usp=sf_link)  
 
 ### Introduce Yourself  
